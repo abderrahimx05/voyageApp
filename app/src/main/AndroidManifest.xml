@@ -18,6 +18,9 @@
             android:name=".ReservationsActivity"
             android:exported="false" />
         <activity
+            android:name=".InformationActivity"
+            android:exported="false" />
+        <activity
             android:name=".ModificationActivity"
             android:exported="false" />
         <activity
